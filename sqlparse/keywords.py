@@ -726,6 +726,7 @@ KEYWORDS_COMMON = {
     'DISTINCT': tokens.Keyword,
 }
 
+# which are not in KEYWORDS, KEYWORDS_COMMON
 KEYWORDS_DB2 = {
     'ACCESSCTRL': tokens.Keyword,
     'ACCORDING': tokens.Keyword,
@@ -1258,7 +1259,8 @@ KEYWORDS_DB2 = {
     'STRIP': tokens.Keyword,
     'STRIPE': tokens.Keyword,
     'STYLE': tokens.Keyword,
-    'SUB': tokens.Keyword,
+    #'SUB' is a key word, but it conflicts with test_grouping_identifier_list_subquery() test
+    #'SUB': tokens.Keyword,
     'SUBSECTION': tokens.Keyword,
     'SUCCESS': tokens.Keyword,
     'SUMMARY': tokens.Keyword,
