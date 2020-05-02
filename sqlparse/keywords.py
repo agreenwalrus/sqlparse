@@ -796,7 +796,6 @@ KEYWORDS_DB2 = {
     'AUTOTYPE': tokens.Keyword,
     'AVAILABLE': tokens.Keyword,
 
-    'B': tokens.Keyword,
     'BASE': tokens.Keyword,
     'BASE64': tokens.Keyword,
     'BASED': tokens.Keyword,
@@ -825,7 +824,6 @@ KEYWORDS_DB2 = {
     'BY': tokens.Keyword,
     'BYPASS': tokens.Keyword,
 
-    'C': tokens.Keyword,
     'CACHE': tokens.Keyword,
     'CACHING': tokens.Keyword,
     'CALL': tokens.Keyword,
@@ -1094,7 +1092,6 @@ KEYWORDS_DB2 = {
     'FULL': tokens.Keyword,
     'FUNCTION': tokens.Keyword,
 
-    'G': tokens.Keyword,
     'GBPCACHE': tokens.Keyword,
     'GENERAL': tokens.Keyword,
     'GENERATE': tokens.Keyword,
@@ -1187,12 +1184,10 @@ KEYWORDS_DB2 = {
     'JIS': tokens.Keyword,
     'JOIN': tokens.Keyword,
 
-    'K': tokens.Keyword,
     'KEEP': tokens.Keyword,
     'KEY': tokens.Keyword,
     'KEYS': tokens.Keyword,
 
-    'L': tokens.Keyword,
     'LABEL': tokens.Keyword,
     'LANGUAGE': tokens.Keyword,
     'LARGE': tokens.Keyword,
@@ -1232,7 +1227,6 @@ KEYWORDS_DB2 = {
     'LOW': tokens.Keyword,
     'LOWER': tokens.Keyword,
 
-    'M': tokens.Keyword,
     'MAIN': tokens.Keyword,
     'MAINTAINED': tokens.Keyword,
     'MANAGED': tokens.Keyword,
@@ -1339,7 +1333,6 @@ KEYWORDS_DB2 = {
     'OVERRIDING': tokens.Keyword,
     'OWNERSHIP': tokens.Keyword,
 
-    'P': tokens.Keyword,
     'PACKAGE': tokens.Keyword,
     'PAGE': tokens.Keyword,
     'PAGESIZE': tokens.Keyword,
@@ -1481,7 +1474,6 @@ KEYWORDS_DB2 = {
     'RULE': tokens.Keyword,
     'RUN': tokens.Keyword,
 
-    'S': tokens.Keyword,
     'SAFE': tokens.Keyword,
     'SAMPLED': tokens.Keyword,
     'SAVEPOINT': tokens.Keyword,
@@ -1593,7 +1585,6 @@ KEYWORDS_DB2 = {
     'SYSTEM': tokens.Keyword,
     'SYSTEM_USER': tokens.Keyword,
 
-    'T': tokens.Keyword,
     'TABLE': tokens.Keyword,
     'TABLES': tokens.Keyword,
     'TABLESAMPLE': tokens.Keyword,
